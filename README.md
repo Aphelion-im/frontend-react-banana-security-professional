@@ -1,5 +1,15 @@
 # Opdrachtbeschrijving
 
+## Notities
+* Fake server opstarten `npm run json:server`
+* 
+
+__Uitwerkingen__
+* [Banana security professional uitwerkingen](https://github.com/hogeschoolnovi/frontend-react-banana-security-professional-uitwerkingen)
+* [Fake server](https://github.com/hogeschoolnovi/frontend-fake-server)
+
+
+
 ## Inleiding
 
 Vorige week heb je het toonaangevende bedrijf Banana Security geholpen met het opzetten van een beveiligde omgeving,
